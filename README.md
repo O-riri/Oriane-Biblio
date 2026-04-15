@@ -1,2 +1,2 @@
-# Oriane-Biblioth-que
+# Oriane-Biblio
 Projet django L2
